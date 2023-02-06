@@ -1,3 +1,5 @@
+package preWorkShop;
+
 public class UsuarioEps extends Usuario {
 
 
@@ -7,6 +9,6 @@ public class UsuarioEps extends Usuario {
 
     @Override
     String ObtenerTipo() {
-        return "Usuario Eps";
+        return "preWorkShop.Usuario Eps";
     }
 }

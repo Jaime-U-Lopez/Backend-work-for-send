@@ -1,3 +1,5 @@
+package preWorkShop;
+
 public class Especialidades {
 
     private String nombre;

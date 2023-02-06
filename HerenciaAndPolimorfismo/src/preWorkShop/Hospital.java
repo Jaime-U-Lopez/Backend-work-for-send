@@ -1,3 +1,4 @@
+package preWorkShop;
 
 import java.util.Date;
 
@@ -34,7 +35,7 @@ public class Hospital {
             System.out.println("Error usuario tipo no existe = ");
         }
 
-        System.out.println(" Cita agendada : \n" + " Para el  Usuario = " + Usuario.getNombre() + Usuario.getApellido()
+        System.out.println(" Cita agendada : \n" + " Para el  preWorkShop.Usuario = " + Usuario.getNombre() + Usuario.getApellido()
                 + " Codigo usuario " + Usuario.getId() + " Cedula " + Usuario.getCedula() + " Con linea medica  :" + Especialidades.getNombre()
                 + " Con la Especialidad : " + Especialidades.getTipoEspecialidad() + "\n codigo : " + Especialidades.getCodigo() + " Fecha Programada  " + this.fechaCita + "\n valor a pagar : $" + valorBaseApagar);
 

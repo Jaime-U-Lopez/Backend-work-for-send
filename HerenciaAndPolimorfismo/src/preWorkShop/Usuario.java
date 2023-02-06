@@ -1,3 +1,5 @@
+package preWorkShop;
+
 public abstract class Usuario {
 
     private String nombre;

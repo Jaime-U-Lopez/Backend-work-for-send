@@ -1,3 +1,5 @@
+package preWorkShop;
+
 public class UsuarioParticular extends Usuario  {
 
     public UsuarioParticular(String nombre, String apellido, long Cedula, String CorreoElectronico) {
@@ -6,6 +8,6 @@ public class UsuarioParticular extends Usuario  {
 
     @Override
     String ObtenerTipo() {
-        return "Usuario Particular";
+        return "preWorkShop.Usuario Particular";
     }
 }
