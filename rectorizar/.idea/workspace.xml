@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4944cb1-d2b2-4f7c-8303-881a8294c5cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ejerciciosFueraDeClase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejerciciosFueraDeClase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejerciciosFueraDeClase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejerciciosFueraDeClase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejerciciosFueraDeClase/ejerciciosFueraDeClase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ejerciciosFueraDeClase/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/Codigo inicial problema/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/Codigo inicial problema/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/Codigo inicial problema/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/Codigo inicial problema/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/Codigo inicial problema/out/production/pruebaref/Comparendo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/Codigo inicial problema/out/production/pruebaref/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/Codigo inicial problema/pruebaref.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/Codigo inicial problema/src/Comparendo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/Codigo inicial problema/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/nuevorefactor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/out/production/nuevorefactor/Camion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/out/production/nuevorefactor/Carro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/out/production/nuevorefactor/Comparendo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/out/production/nuevorefactor/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/out/production/nuevorefactor/Mula.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/out/production/nuevorefactor/Vehiculo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/src/Camion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/src/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/src/Comparendo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/src/Mula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nuevorefactor/src/Vehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejercicio de encapsulamiento" beforeDir="false" afterPath="$PROJECT_DIR$/../ejercicio de encapsulamiento" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LVNS9szP3CPOyZl8zRcfNjENK4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jaime-lopez/IdeaProjects/Backend-work-for-send/rectorizar&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Remote" nameIsGenerated="true">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4944cb1-d2b2-4f7c-8303-881a8294c5cb" name="Changes" comment="" />
+      <created>1675952295301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675952295301</updated>
+    </task>
+    <servers />
+  </component>
+</project>
