@@ -5,24 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4944cb1-d2b2-4f7c-8303-881a8294c5cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/EjercicioLiskovConError/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/EjercicioLiskovConError/NiñoError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/EjercicioLiskovConError/PersonaError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/EjercicioLiskovCorrect/Adulto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/EjercicioLiskovCorrect/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/EjercicioLiskovCorrect/Niño.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/EjercicioLiskovCorrect/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/ejercicioInversionDependencias/Correcto/IPersistence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/ejercicioInversionDependencias/Correcto/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/ejercicioInversionDependencias/Correcto/MySql.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/ejercicioInversionDependencias/Correcto/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/ejercicioInversionDependencias/Correcto/ServicePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/ejercicioInversionDependencias/Errado/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/ejercicioInversionDependencias/Errado/MySql.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/ejercicioInversionDependencias/Errado/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PRINCIPIOS SOLID/src/ejercicioInversionDependencias/Errado/ServicePerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../pruebaref/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ejercicio de encapsulamiento" beforeDir="false" afterPath="$PROJECT_DIR$/../ejercicio de encapsulamiento" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
