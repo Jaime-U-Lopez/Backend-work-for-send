@@ -4,5 +4,7 @@
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/numerosRetoSpring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/numerosRetoSpring/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/numerosRetoSpring/src/RetoSpring" vcs="Git" />
   </component>
 </project>
