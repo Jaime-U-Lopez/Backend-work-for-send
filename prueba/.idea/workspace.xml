@@ -5,27 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42f5b5d9-30cd-4246-8024-a0ebaf5bdb87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Desarrollo_proyecto_integrador/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desarrollo_proyecto_integrador/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desarrollo_proyecto_integrador/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desarrollo_proyecto_integrador/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Desarrollo_proyecto_integrador/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ejercicio_manejo_datos/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../projectDesignePatrones" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workshop-estructura de datos- linkedlist" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../workshopEstructuraDatos" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ejercicio de encapsulamiento" beforeDir="false" afterPath="$PROJECT_DIR$/../ejercicio de encapsulamiento" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/ejercicio de encapsulamiento/Acount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/ejercicio de encapsulamiento/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/ejercicio de encapsulamiento/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/ejercicio de encapsulamiento/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/ejercicio de encapsulamiento/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/ejercicio de encapsulamiento/Servicer_advisor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/ejercicio de encapsulamiento/banco.drawio.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejercicio_manejo_datos/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ejercicio_manejo_datos/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../projectDesignePatrones2" beforeDir="false" afterPath="$PROJECT_DIR$/../projectDesignePatrones2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pruebaref/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rectorizar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rectorizar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshop-estructura de datos- linkedlist" beforeDir="false" afterPath="$PROJECT_DIR$/../workshop-estructura de datos- linkedlist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../workshopEstructuraDatos" beforeDir="false" afterPath="$PROJECT_DIR$/../workshopEstructuraDatos" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +43,7 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/jaime-lopez/IdeaProjects/Backend-work-for-send/ejercicio_manejo_datos",
+    "last_opened_file_path": "/home/jaime-lopez/IdeaProjects/Backend-work-for-send/numerosReto",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2"
